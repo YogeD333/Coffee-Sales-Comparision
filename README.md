@@ -1,3 +1,5 @@
+<img width="447" height="283" alt="image" src="https://github.com/user-attachments/assets/c3cf2465-b006-4cd9-9093-90fbe00b2eb7" />
+
 # ☕ Coffee Brand Sales & Rating Comparison
 
 ## 🚀 Objective
